@@ -1,0 +1,4 @@
+fastapi 
+nest-asyncio 
+uvicorn
+mangum
